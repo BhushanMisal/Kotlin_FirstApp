@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My first Kotlin Application</string>
+    <string name="sweetImage">JamunImage</string>
+    <string name="chhangebUtton">Change</string>
+</resources>
